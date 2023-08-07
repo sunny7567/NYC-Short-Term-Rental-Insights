@@ -3,16 +3,16 @@
 
 ##How to approach the project
 
-*Importing the data
-*Cleaning the price column
-*Calculating average price
-*Comparing costs to the private rental market
-*Cleaning the room_type column
-*What timeframe are we working with?
-*Joining the DataFrames
-*Analyzing listing prices by NYC borough
-*Price range by borough
-*Storing the final result
+* Importing the data
+* Cleaning the price column
+* Calculating average price
+* Comparing costs to the private rental market
+* Cleaning the room_type column
+* What timeframe are we working with?
+* Joining the DataFrames
+* Analyzing listing prices by NYC borough
+* Price range by borough
+* Storing the final result
 
 
 # Step 1 : Importing the data
