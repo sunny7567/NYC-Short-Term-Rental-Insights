@@ -1,3 +1,6 @@
+
+
+
 ##How to approach the project
 
 *Importing the data
