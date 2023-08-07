@@ -6,3 +6,10 @@ To accomplish this, the Head of Data has requested that you build a project that
 The insights gained from the analysis had the potential to provide valuable information to the start-up on how to make informed business decisions. For example, Pillow Palooza could use the insights to identify which neighborhoods to invest in, which property types to focus on, and how to price their rentals to remain competitive in the market.
 
 By providing these insights, the project aimed to help Pillow Palooza make strategic decisions that could lead to growth and success in the short-term rental market in New York City.
+
+
+##The project will be divided into three part:
+
+*Data Wrangling and Cleaning
+*Data Analysis and Insights Generation
+*Presenting your findings for Business Impact
