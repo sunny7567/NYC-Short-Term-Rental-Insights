@@ -10,8 +10,8 @@ By providing these insights, the project aimed to help Pillow Palooza make strat
 
 ## The project will be divided into three part:
 
-*Data Wrangling and Cleaning
+* Data Wrangling and Cleaning
 
-*Data Analysis and Insights Generation
+* Data Analysis and Insights Generation
 
-*Presenting your findings for Business Impact
+* Presenting your findings for Business Impact
