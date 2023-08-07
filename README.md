@@ -1,4 +1,4 @@
-# Project-Exploring-Airbnb-Market-Trends
+# NYC Short-Term Rental Insights
 
 You work as a Data Analyst for a real estate start-up (Pillow Palooza). The main objective of your job is to provide insight into the short-term rental market in New York City. In a competitive market, it is your goal to help the start-up identify opportunities for growth and success.
 To accomplish this, the Head of Data has requested that you build a project that collects Airbnb listing data from multiple sources, cleans it, and analyzes it. The analysis will aim to uncover key trends in popular neighborhoods, rental prices, property types, length of stay, and demand over time.
