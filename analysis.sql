@@ -60,3 +60,18 @@ LEFT JOIN room_types as r
 USING (listing_id)
 GROUP BY 2,1
 ORDER BY 3 DESC
+
+-- Q.9) How many listings have no reviews?
+
+SELECT count(rt.id), count(r.id)
+FROM room_types as rt
+LEFT JOIN reviews as r
+USING (listing_id)
+WHERE rt.listing_id != r.listing_id
+
+-- Q.10) How do the estimated book days correlate with the price of an Airbnb listing in New York City?
+
+SELECT CORR (p.price, r.booked_days_365)
+FROM prices as p
+LEFT JOIN reviews as r
+USING (listing_id)
