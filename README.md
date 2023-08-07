@@ -8,8 +8,10 @@ The insights gained from the analysis had the potential to provide valuable info
 By providing these insights, the project aimed to help Pillow Palooza make strategic decisions that could lead to growth and success in the short-term rental market in New York City.
 
 
-##The project will be divided into three part:
+## The project will be divided into three part:
 
 *Data Wrangling and Cleaning
+
 *Data Analysis and Insights Generation
+
 *Presenting your findings for Business Impact
